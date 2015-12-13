@@ -1,0 +1,22 @@
+{
+  "name": "Sistema_Colegio",
+  "description": "Sistema de Colegio para TIC",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Juan Saavedra"
+  ],
+  "license": "MIT",
+  "homepage": "Sistema_Colegio.app",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
